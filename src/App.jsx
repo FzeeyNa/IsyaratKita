@@ -63,7 +63,7 @@ function App() {
     <div className="flex flex-col items-center justify-center">
       <div className="bg-blue-500 w-full lg:w-4/12 h-[100vh] flex flex-col items-center justify-center text-white">
         <img src={logo}/>
-        <h1 className="text-2xl font-black">SuaraTangan</h1>
+        <h1 className="text-2xl font-black">IsyaratKita</h1>
         <p>Bangun dunia tanpa batasan suara!</p>
       </div>
     </div>):
@@ -168,7 +168,7 @@ function App() {
           </div>
 
           <div className="text-center mb-[5em]">
-            <span>Copyright &copy;2024 SuaraTangan</span>
+            <span>Copyright &copy;2025 ALfazr</span>
           </div>
 
         </div>

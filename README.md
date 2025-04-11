@@ -1,5 +1,5 @@
 <center>
-<h1>Suara Tangan</h1>
+<h1>IsyaratKita</h1>
 <img src="https://github.com/diosamuel/suaratangan/blob/main/public/android-icon-192x192.png"/>
 </center>
 
